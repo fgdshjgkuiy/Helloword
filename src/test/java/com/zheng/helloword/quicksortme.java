@@ -2,7 +2,7 @@ package com.zheng.helloword;
 
 public class quicksortme {
     public static void main(String[] args) {
-        int[] arr = {6,3,1,4,5,2};
+        int[] arr = {3,1,4,5,2};
         int left = 0,right = arr.length - 1;
         quickRow(arr,left,right);
         for (int i : arr){

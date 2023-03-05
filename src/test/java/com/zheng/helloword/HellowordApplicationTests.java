@@ -8,6 +8,7 @@ class HellowordApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
